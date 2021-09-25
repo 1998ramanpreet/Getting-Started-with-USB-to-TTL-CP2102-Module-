@@ -1,1 +1,1 @@
-# Getting-Started-with-USB-to-TTL-CP2102-Module-
+# Getting Started with USB to TTL (CP2102 Module)
